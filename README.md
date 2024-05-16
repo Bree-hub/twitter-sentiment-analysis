@@ -1,19 +1,14 @@
 
 # Project Title
 
-Sentiment Classification of Tweets about Apple and Google Products using Natural Language Processing (NLP)by G10 Data Scientists.
+Sentiment Classification of Tweets about Apple and Google Products using Natural Language Processing (NLP)
 
-
-## Group Members 
-
-Brenda Kinoti, John Karanja, Victor Mawira, Michelle Mwendwa, Loise Mbago, Stephen Gathai
-## Student Pace: Part Time 
 ## Overview 
 
 This project employs Natural Language Processing (NLP) techniques to perform sentiment analysis on tweets discussing Apple and Google products. The objective is categorizing tweets into positive, negative, or neutral sentiment categories. Our team, G10 Data Scientists, collaborated to preprocess data, conduct exploratory data analysis, engineer features, build models, and evaluate their performance.
 ## Business Problem 
 
-Understanding public sentiment towards products is pivotal in today's social media-driven landscape. Twitter, as a prominent platform, offers an avenue to analyze and predict sentiment trends. This project employs NLP to create models classifying sentiments in tweets related to Apple and Google products. Crowd Brands and Products Emotions (CBPE), experts in customer sentiment analysis, sought to categorize views expressed in tweets, as well as associate them with specific brands/products. G10 Data Scientists were engaged to construct a sophisticated sentiment analysis prediction system by developing sophisticated NLP models that accurately predict tweet sentiments, aiding CBPE's comprehension of customer perceptions.
+Understanding public sentiment towards products is pivotal in today's social media-driven landscape. Twitter, as a prominent platform, offers an avenue to analyze and predict sentiment trends. This project employs NLP to create models classifying sentiments in tweets related to Apple and Google products. Crowd Brands and Products Emotions (CBPE), experts in customer sentiment analysis, sought to categorize views expressed in tweets, as well as associate them with specific brands/products. I engaged to construct a sophisticated sentiment analysis prediction system by developing sophisticated NLP models that accurately predict tweet sentiments, aiding CBPE's comprehension of customer perceptions.
 ## Data Understanding 
 
 The dataset contains 9093 tweets collected from various sources. Each tweet is labeled as 'Positive Sentiment,' 'Negative Sentiment,' 'Neutral,' or 'Cannot Tell.' The tweets discuss Apple, Google, and their products/services
