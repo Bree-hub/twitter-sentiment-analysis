@@ -5,7 +5,7 @@ Sentiment Classification of Tweets about Apple and Google Products using Natural
 
 ## Overview 
 
-This project employs Natural Language Processing (NLP) techniques to perform sentiment analysis on tweets discussing Apple and Google products. The objective is categorizing tweets into positive, negative, or neutral sentiment categories. Our team, G10 Data Scientists, collaborated to preprocess data, conduct exploratory data analysis, engineer features, build models, and evaluate their performance.
+This project employs Natural Language Processing (NLP) techniques to perform sentiment analysis on tweets discussing Apple and Google products. The objective is categorizing tweets into positive, negative, or neutral sentiment categories. Collaborated to preprocess data, conduct exploratory data analysis, engineer features, build models, and evaluate their performance.
 ## Business Problem 
 
 Understanding public sentiment towards products is pivotal in today's social media-driven landscape. Twitter, as a prominent platform, offers an avenue to analyze and predict sentiment trends. This project employs NLP to create models classifying sentiments in tweets related to Apple and Google products. Crowd Brands and Products Emotions (CBPE), experts in customer sentiment analysis, sought to categorize views expressed in tweets, as well as associate them with specific brands/products. I engaged to construct a sophisticated sentiment analysis prediction system by developing sophisticated NLP models that accurately predict tweet sentiments, aiding CBPE's comprehension of customer perceptions.
